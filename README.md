@@ -9,3 +9,4 @@
 - 📫 How to reach me : Guptanaman1995@gmail.com
 
 
+<figure><embed src="https://wakatime.com/share/@2bf0159f-b6d7-4c3c-a8cd-777aeef1fd6e/e88cbd72-12a7-4f84-be47-ab760ed377a2.svg"></embed></figure>
