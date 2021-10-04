@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Naman Gupta, a final year B.tech student.
+- 👋 Hi, I’m Naman Gupta, a Full-Stack Web Developer.
 
 - 👀 I’m interested in doing problem solving.
 
-- 🌱 I’m currently learning Full-stack Web Development.
+- 🌱 I’m currently learning ReactJS.
 
 - 💞️ I’m looking to collaborate on web development projects.
 
