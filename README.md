@@ -12,6 +12,8 @@
 <h1 align="center">Hi 👋, I'm Naman Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Building Web Apps**
 
 - 🌱 I’m currently learning **Next JS, DevOps, Cloud, Kafka**
@@ -19,6 +21,8 @@
 - 💬 Ask me about **React, Angular, NodeJS**
 
 - 📫 How to reach me **Guptanaman1995@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
