@@ -1,10 +1,10 @@
 <!-- - 👋 Hi, I’m Naman Gupta, a Full-Stack Web Developer. -->
 
-<!-- - 👀 I’m interested in doing problem solving. -->
+<!-- - 👀 I’m interested in building Scalable Distributed Systems. -->
 
-<!-- - 🌱 I’m currently learning ReactJS. -->
+<!-- - 🌱 I’m currently learning: To be a Good Software Engineer. -->
 
-<!-- - 💞️ I’m looking to collaborate on web development projects. -->
+<!-- - 💞️ I’m looking to collaborate on Challenging projects -->
 
 <!-- - 📫 How to reach me : Guptanaman1995@gmail.com -->
 
@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **Building Web Apps**
 
-- 🌱 I’m currently learning **Next JS, DevOps, Cloud, Kafka**
+- 🌱 I’m currently learning **Gen AI, LLMs , Cloud**
 
-- 💬 Ask me about **React, Angular, NodeJS**
+- 💬 Ask me about **NodeJS, TypeScript, Problem Solving, Scaling**
 
 - 📫 How to reach me **Guptanaman1995@gmail.com**
 
